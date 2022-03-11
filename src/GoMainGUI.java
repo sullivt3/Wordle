@@ -330,7 +330,7 @@ public class GoMainGUI {
     static boolean containsWord(String s) throws IOException {
 
         BufferedReader br = new BufferedReader(new FileReader(
-                "C:\\Users\\tsull\\Documents\\Wordle\\AA.txt"));
+                "AA.txt"));
         String st;
         while ((st = br.readLine()) != null) { // final String lineFromFile =
             // scanner.nextLine();
