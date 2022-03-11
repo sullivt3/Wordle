@@ -27,7 +27,7 @@ import javax.swing.text.Position;
 public class GoMainGUI {
 
     // The word of the day
-    static String word = "query";
+    static String word = "spill";
     static String guess;
     static char[] wordArr = word.toCharArray();
     static boolean winner;
